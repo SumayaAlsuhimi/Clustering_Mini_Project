@@ -98,5 +98,3 @@ A higher Silhouette Score indicates:
 * Selecting the appropriate clustering algorithm depends on the characteristics of the dataset.
 
 ---
-
-**Author:** Sumaya Hassan
